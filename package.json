@@ -1,0 +1,25 @@
+{
+  "name": "nitrosniper",
+  "version": "1.0.0",
+  "description": "Autom redeem nitro gifts sent on discord servers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueltsantos/NitroSniper.git"
+  },
+  "author": "migueltsantos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/migueltsantos/NitroSniper/issues"
+  },
+  "homepage": "https://github.com/migueltsantos/NitroSniper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^3.0.0",
+    "console-title": "^1.1.0",
+    "discord.js": "^11.5.1"
+  }
+}
