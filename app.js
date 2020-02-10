@@ -13,7 +13,6 @@ readder.question('Insert the account token: ', token => {
         consoleTitle('NitroSniper');
         console.log(`${chalk.greenBright('[Started]')} - Looking for discord gifts...`);
     });
-    const config = 
     client.on('message', message => {
         if(message.content.includes('discord.gift') || message.content.includes('discordapp.com/gifts/')) {
             const giftRegex = /(discord\.(gift)|discordapp\.com\/gift)\/.+[a-z]/
