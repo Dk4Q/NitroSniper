@@ -15,4 +15,4 @@ $ yarn install
 $ node .
 ```
 
-&hearts; Created with love and javascript by Umiko#0001 (597098946871164929)
+&hearts; Created with love and javascript by Torres#0001 (597098946871164929)
